@@ -1,0 +1,20 @@
+#!/bin/bash
+# @raycast.schemaVersion 1
+# @raycast.title Note today
+# @raycast.description Comando Raycast: Note today
+# @raycast.author piczadev
+# @raycast.icon 🚀
+
+# @raycast.schemaVersion 1
+# @raycast.title Launch Dev Stack
+# @raycast.description Abre Kitty, WezTerm, Arc y Obsidian en orden
+# @raycast.author piczadev
+# @raycast.icon 🧠
+
+
+NOTE_NAME="📓_$(date +%Y-%m-%d).md"
+NOTE_PATH="$HOME/Documents/Obsidian Vault/📓 Notes/$NOTE_NAME"
+
+mkdir -p "$(dirname "$NOTE_PATH")"
+echo "# Nota del día – $(date)" > "$NOTE_PATH"
+open -a "Obsidian" "$NOTE_PATH"

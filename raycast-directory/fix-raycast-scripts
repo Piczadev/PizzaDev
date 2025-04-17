@@ -1,0 +1,56 @@
+#!/bin/bash
+# @raycast.schemaVersion 1
+# @raycast.title Fix raycast scripts
+# @raycast.description Comando Raycast: Fix raycast scripts
+# @raycast.author piczadev
+# @raycast.icon 🚀
+
+
+SCRIPT_DIR="$HOME/Code/raycast-directory"
+
+echo "🔧 Corrigiendo scripts en: $SCRIPT_DIR"
+cd "$SCRIPT_DIR" || exit 1
+
+for script in *; do
+  fullpath="$SCRIPT_DIR/$script"
+
+  # Saltar carpetas
+  [ -d "$fullpath" ] && continue
+
+  # Renombrar si termina en .sh
+  if [[ "$script" == *.sh ]]; then
+    newname="${script%.sh}"
+    mv "$fullpath" "$SCRIPT_DIR/$newname"
+    fullpath="$SCRIPT_DIR/$newname"
+    echo "🚫 Renombrado: $script → $newname"
+  fi
+
+  # Eliminar encabezado duplicado y limpiar
+  sed -i '' '/^#!\/bin\/bash/{$!{n;/^open/d;};}' "$fullpath"
+  sed -i '' '/^#!\/bin\/bash$/d' "$fullpath"
+
+  # Añadir encabezado Raycast estándar al inicio
+  title=$(echo "$fullpath" | sed -E 's/.*\///; s/-/ /g' | awk '{print toupper(substr($0,1,1)) substr($0,2)}')
+
+  cat > /tmp/temp_rayfix <<EOF
+# @raycast.schemaVersion 1
+# @raycast.title $title
+# @raycast.description Comando Raycast: $title
+# @raycast.author piczadev
+# @raycast.icon 🚀
+
+EOF
+
+  cat "$fullpath" >> /tmp/temp_rayfix
+  mv /tmp/temp_rayfix "$fullpath"
+
+  chmod +x "$fullpath"
+  echo "✅ Corregido: $script"
+done
+
+echo "♻️ Reiniciando Raycast..."
+killall "Raycast" &>/dev/null
+sleep 1
+open -a "Raycast"
+
+echo "✅ Todo listo. Abre Raycast y revisa tus comandos."

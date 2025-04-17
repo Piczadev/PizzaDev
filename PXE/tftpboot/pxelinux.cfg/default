@@ -1,0 +1,4 @@
+DEFAULT mx
+LABEL mx
+    KERNEL vmlinuz
+    APPEND initrd=initrd.gz quiet

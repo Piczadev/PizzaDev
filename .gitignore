@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+*.swp
+node_modules/
+venv/
+.env
+StudioProjects/elpiczablog
+android/android-keyboard-gadget
+elpiczablog/
+noscl/
+osint/sherlock
+samsumgroot/Heimdall
+web3/hola_solana

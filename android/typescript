@@ -1,0 +1,186 @@
+Script started on Thu Apr  3 19:15:28 2025
+
+Selecciona un entorno de trabajo:
+[1] 🏡 Home
+[2] 🖥️  Desarrollo (JS, Python, Rust)
+[3] ⚙️  Automatizaciones
+[4] 🧠 Swift/Xcode
+[5] 🌐 Web3 / Solana
+[0] ❌ Salir
+→ 2
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code]1;~/Code]7;file://piczamini.local/Users/piczadev/Code\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36m~/Code[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;32m➜[0m [K[?1h=[?2004haandroid[?1l>[?2004l
+]2;android]1;android[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android]1;~/Code/android]7;file://piczamini.local/Users/piczadev/Code/android\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36m~/Code/android[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;32m➜[0m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=auto]1;lsadb_debloat.sh
+install_magisk_modules.sh
+optimize_device.sh
+[31mscrcpy_usb.sh[39;49m[0m
+scrcpy_wifi.sh
+script
+typescript
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android]1;~/Code/android]7;file://piczamini.local/Users/piczadev/Code/android\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36m~/Code/android[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;32m➜[0m [K[?1h=[?2004hmmkld  dir scrpy[?1l>[?2004l
+]2;mkdir scrpy]1;mkdir[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android]1;~/Code/android]7;file://piczamini.local/Users/piczadev/Code/android\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36m~/Code/android[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;32m➜[0m [K[?1h=[?2004hsscrpy[?1l>[?2004l
+]2;scrpy]1;scrpy[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;32m➜[0m [K[?1h=[?2004h[7mscrcpy \[27m
+[7m  --serial=RFCXC08RD5E \[27m[K
+[7m  --new-display=1920x1080/420 \[27m[K
+[7m  --start-app=com.termux \[27m[K
+[7m  --orientation=landscape \[27m[K
+[7m  --fullscreen \[27m[K
+[7m  --turn-screen-off \[27m[K
+[7m  --window-title="🖥️ Termux (Virtual Display)"[27m[K[7A[44D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27mc[27mo[27mm[27m.[27mt[27me[27mr[27mm[27mu[27mx[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27ml[27ma[27mn[27md[27ms[27mc[27ma[27mp[27me[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[27m [27m\[1B[27m [27m [27m-[27m-[27mt[27mu[27mr[27mn[27m-[27ms[27mc[27mr[27me[27me[27mn[27m-[27mo[27mf[27mf[27m [27m\[1B[27m [27m [27m-[27m-[27mw[27mi[27mn[27md[27mo[27mw[27m-[27mt[27mi[27mt[27ml[27me[27m=[27m"[27m🖥️[27m[27m [27mT[27me[27mr[27mm[27mu[27mx[27m [27m([27mV[27mi[27mr[27mt[27mu[27ma[27ml[27m [27mD[27mi[27ms[27mp[27ml[27ma[27my[27m)[27m"[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420 --start-app=com.termu]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+2025-04-03 19:16:02.017 scrcpy[34002:598509] ERROR: Unsupported orientation: landscape (expected 0, 90, 180, 270, flip0, flip90, flip180 or flip270)
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7mscrcpy \[27m
+[7m  --serial=RFCXC08RD5E \[27m[K
+[7m  --new-display=1920x1080/420 \[27m[K
+[7m  --start-app=com.termux \[27m[K
+[7m  --orientation=landscape \[27m[K
+[7m  --fullscreen \[27m[K
+[7m  --turn-screen-off \[27m[K
+[7m  --window-title="🖥️ Termux (Virtual Display)"[27m[K[7A[44D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27mc[27mo[27mm[27m.[27mt[27me[27mr[27mm[27mu[27mx[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27ml[27ma[27mn[27md[27ms[27mc[27ma[27mp[27me[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[27m [27m\[1B[27m [27m [27m-[27m-[27mt[27mu[27mr[27mn[27m-[27ms[27mc[27mr[27me[27me[27mn[27m-[27mo[27mf[27mf[27m [27m\[1B[27m [27m [27m-[27m-[27mw[27mi[27mn[27md[27mo[27mw[27m-[27mt[27mi[27mt[27ml[27me[27m=[27m"[27m🖥️[27m[27m [27mT[27me[27mr[27mm[27mu[27mx[27m [27m([27mV[27mi[27mr[27mt[27mu[27ma[27ml[27m [27mD[27mi[27ms[27mp[27ml[27ma[27my[27m)[27m"[7ms[7mc[7mr[7mcpy \[27m[K
+[7m  --serial=RFCXC08RD5E \[27m[K
+[7m  --new-display=1920x1080/420 \[27m[K
+[7m  --start-app=com.termux \[27m[K
+[7m  --orientation=landscape \[27m[K
+[7m  --fullscreen \[27m[K
+[7m  --turn-screen-off \[27m[K
+[7m  --window-title="🖥️ Termux (Virtual Display)"[27m[K[8A[27ms[27mcr[27mc[27mp[27my[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27mc[27mo[27mm[27m.[27mt[27me[27mr[27mm[27mu[27mx[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27ml[27ma[27mn[27md[27ms[27mc[27ma[27mp[27me[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[27m [27m\[1B[27m [27m [27m-[27m-[27mt[27mu[27mr[27mn[27m-[27ms[27mc[27mr[27me[27me[27mn[27m-[27mo[27mf[27mf[27m [27m\[1B[27m [27m [27m-[27m-[27mw[27mi[27mn[27md[27mo[27mw[27m-[27mt[27mi[27mt[27ml[27me[27m=[27m"[27m🖥️[27m[27m [27mT[27me[27mr[27mm[27mu[27mx[27m [27m([27mV[27mi[27mr[27mt[27mu[27ma[27ml[27m [27mD[27mi[27ms[27mp[27ml[27ma[27my[27m)[27m"[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420 --start-app=com.termu]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+2025-04-03 19:16:11.302 scrcpy[34012:598836] ERROR: Unsupported orientation: landscape (expected 0, 90, 180, 270, flip0, flip90, flip180 or flip270)
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7mscrcpy \[27m
+[7m  --serial=RFCXC08RD5E \[27m[K
+[7m  --new-display=1920x1080/420 \[27m[K
+[7m  --start-app=com.termux \[27m[K
+[7m  --orientation=landscape \[27m[K
+[7m  --fullscreen \[27m[K
+[7m  --turn-screen-off \[27m[K
+[7m  --window-title="🖥️ Termux (Virtual Display)"[27m[K[7A[44D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27mc[27mo[27mm[27m.[27mt[27me[27mr[27mm[27mu[27mx[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27ml[27ma[27mn[27md[27ms[27mc[27ma[27mp[27me[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[27m [27m\[1B[27m [27m [27m-[27m-[27mt[27mu[27mr[27mn[27m-[27ms[27mc[27mr[27me[27me[27mn[27m-[27mo[27mf[27mf[27m [27m\[1B[27m [27m [27m-[27m-[27mw[27mi[27mn[27md[27mo[27mw[27m-[27mt[27mi[27mt[27ml[27me[27m=[27m"[27m🖥️[27m[27m [27mT[27me[27mr[27mm[27mu[27mx[27m [27m([27mV[27mi[27mr[27mt[27mu[27ma[27ml[27m [27mD[27mi[27ms[27mp[27ml[27ma[27my[27m)[27m"[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420 --start-app=com.termu]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+2025-04-03 19:16:21.182 scrcpy[34020:599120] ERROR: Unsupported orientation: landscape (expected 0, 90, 180, 270, flip0, flip90, flip180 or flip270)
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7mscrcpy \[27m
+[7m  --serial=RFCXC08RD5E \[27m[K
+[7m  --new-display=1920x1080/270 \[27m[K
+[7m  --start-app=com.termux \[27m[K
+[7m  --orientation=landscape \[27m[K
+[7m  --fullscreen \[27m[K
+[7m  --turn-screen-off \[27m[K
+[7m  --window-title="🖥️ Termux (Virtual Display)"[27m[K[7A[44D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m2[27m7[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27mc[27mo[27mm[27m.[27mt[27me[27mr[27mm[27mu[27mx[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27ml[27ma[27mn[27md[27ms[27mc[27ma[27mp[27me[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[27m [27m\[1B[27m [27m [27m-[27m-[27mt[27mu[27mr[27mn[27m-[27ms[27mc[27mr[27me[27me[27mn[27m-[27mo[27mf[27mf[27m [27m\[1B[27m [27m [27m-[27m-[27mw[27mi[27mn[27md[27mo[27mw[27m-[27mt[27mi[27mt[27ml[27me[27m=[27m"[27m🖥️[27m[27m [27mT[27me[27mr[27mm[27mu[27mx[27m [27m([27mV[27mi[27mr[27mt[27mu[27ma[27ml[27m [27mD[27mi[27ms[27mp[27ml[27ma[27my[27m)[27m"[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/270 --start-app=com.termu]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+2025-04-03 19:16:54.932 scrcpy[34028:600448] ERROR: Unsupported orientation: landscape (expected 0, 90, 180, 270, flip0, flip90, flip180 or flip270)
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7mscrcpy \[27m
+[7m  --serial=RFCXC08RD5E \[27m[K
+[7m  --new-display=1920x1080/270 \[27m[K
+[7m  --start-app=com.termux \[27m[K
+[7m  --orientation=flip270\[27m[K
+[7m  --fullscreen \[27m[K
+[7m  --turn-screen-off \[27m[K
+[7m  --window-title="🖥️ Termux (Virtual Display)"[27m[K[7A[44D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m2[27m7[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27mc[27mo[27mm[27m.[27mt[27me[27mr[27mm[27mu[27mx[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27mf[27ml[27mi[27mp[27m2[27m7[27m0[27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[27m [27m\[1B[27m [27m [27m-[27m-[27mt[27mu[27mr[27mn[27m-[27ms[27mc[27mr[27me[27me[27mn[27m-[27mo[27mf[27mf[27m [27m\[1B[27m [27m [27m-[27m-[27mw[27mi[27mn[27md[27mo[27mw[27m-[27mt[27mi[27mt[27ml[27me[27m=[27m"[27m🖥️[27m[27m [27mT[27me[27mr[27mm[27mu[27mx[27m [27m([27mV[27mi[27mr[27mt[27mu[27ma[27ml[27m [27mD[27mi[27ms[27mp[27ml[27ma[27my[27m)[27m"[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/270 --start-app=com.termu]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+INFO: ADB device found:
+INFO:     -->   (usb)  RFCXC08RD5E                     device  SM_A356E
+INFO:         (tcpip)  192.168.101.103:5555            device  SM_A356E
+[ 72%] /data/local/tmp/scrcpy-server.jar[K/opt/homebrew/Cellar/scrcpy/3.2/share/scrcpy/scrcpy-server: 1 file pushed, 0 skipped. 136.6 MB/s (90888 bytes in 0.001s)[K
+[server] INFO: Device: [samsung] samsung SM-A356E (Android 14)
+INFO: Initial display orientation set to flip270
+INFO: Renderer: metal
+INFO: Texture: 1920x1080
+[server] INFO: New display: 1920x1080/270 (id=15)
+[server] INFO: Device display turned off
+[server] INFO: Starting app "Termux" [com.termux] on display 15...
+^CWARN: Device disconnected
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7m# Si ya tienes Lawnchair instalado:[27m
+[7mscrcpy --serial=RFCXC08RD5E --new-display=1920x1[7m0[7m80/420 --start-app=app.lawnchair --orientation=[7ml[7mandscape --fullscreen[27m[K[3A[20D[27m#[27m [27mS[27mi[27m [27my[27ma[27m [27mt[27mi[27me[27mn[27me[27ms[27m [27mL[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ma[27md[27mo[27m:[1B[27ms[27mc[27mr[27mc[27mp[27my[27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m10[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27ma[27mp[27mp[27m.[27ml[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=l[27ma[27mn[27md[27ms[27mc[27ma[27mp[27me[27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420   --fullscreen]1;#scrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+2025-04-03 19:23:22.117 scrcpy[34105:615435] ERROR: Unsupported orientation: landscape (expected 0, 90, 180, 270, flip0, flip90, flip180 or flip270)
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7m# Si ya tienes Lawnchair instalado:[27m
+[7mscrcpy --serial=RFCXC08RD5E --new-display=1920x1[7m0[7m80/420 --start-app=app.lawnchair --orientation=[7ml[7mandscape --fullscreen[27m[K[3A[20D[27m#[27m [27mS[27mi[27m [27my[27ma[27m [27mt[27mi[27me[27mn[27me[27ms[27m [27mL[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ma[27md[27mo[27m:[1B[27ms[27mc[27mr[27mc[27mp[27my[27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m10[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27ma[27mp[27mp[27m.[27ml[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=l[27ma[27mn[27md[27ms[27mc[27ma[27mp[27me[27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420   --fullscreen]1;#scrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+2025-04-03 19:35:08.980 scrcpy[34191:639593] ERROR: Unsupported orientation: landscape (expected 0, 90, 180, 270, flip0, flip90, flip180 or flip270)
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7mscrcpy --serial=RFCXC08RD5E \[27m
+[7m  --new-display=1920x1080/420 \[27m[K
+[7m  --start-app=app.lawnchair \[27m[K
+[7m  --orientation=90 \[27m[K
+[7m  --fullscreen[27m[K[4A[12D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27ma[27mp[27mp[27m.[27ml[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27m9[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420  --orientation=90 ]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+ERROR: Could not find ADB device RFCXC08RD5E:
+ERROR:         (tcpip)  192.168.101.103:5555            device  SM_A356E
+ERROR: Server connection failed
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7mscrcpy --serial=RFCXC08RD5E \[27m
+[7m  --new-display=1920x1080/420 \[27m[K
+[7m  --start-app=app.lawnchair \[27m[K
+[7m  --orientation=90 \[27m[K
+[7m  --fullscreen[27m[K[4A[12D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27ma[27mp[27mp[27m.[27ml[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27m9[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420  --orientation=90 ]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+INFO: ADB device found:
+INFO:     -->   (usb)  RFCXC08RD5E                     device  SM_A356E
+INFO:         (tcpip)  192.168.101.103:5555            device  SM_A356E
+[ 72%] /data/local/tmp/scrcpy-server.jar[K/opt/homebrew/Cellar/scrcpy/3.2/share/scrcpy/scrcpy-server: 1 file pushed, 0 skipped. 85.6 MB/s (90888 bytes in 0.001s)[K
+[server] INFO: Device: [samsung] samsung SM-A356E (Android 14)
+INFO: Initial display orientation set to 90
+INFO: Renderer: metal
+[server] WARN: No app found for package "app.lawnchair"
+INFO: Texture: 1920x1080
+[server] INFO: New display: 1920x1080/420 (id=16)
+^CWARN: Device disconnected
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004hbbrew instal        b  [7mpm set-home-activity app.lawnchair/.ui.HomeAct[7mi[7mvity[27m[K[A[27mp[27mm[27m [27ms[27me[27mt[27m-[27mh[27mo[27mm[27me[27m-[27ma[27mc[27mt[27mi[27mv[27mi[27mt[27my[27m [27ma[27mp[27mp[27m.[27ml[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m/[27m.[27mu[27mi[27m.[27mH[27mo[27mm[27me[27mA[27mc[27mti[27mv[27mi[27mt[27my[?1l>[?2004l
+]2;pm set-home-activity app.lawnchair/.ui.HomeActivity]1;pmzsh: command not found: pm
+[1m[7m%[27m[1m[0m                                                ]2;piczadev@piczamini:~/Code/android/scrpy]1;..android/scrpy]7;file://piczamini.local/Users/piczadev/Code/android/scrpy\[0m[27m[24m[J
+[38;2;244;12;92m[48;2;30;30;46m[0m[1;36mCode/android/scrpy[0m [48;2;15;15;23;38;2;30;30;46m[0m[38;2;15;15;23m[0m
+
+[1;31m✗[0m [K[?1h=[?2004h[7mscrcpy --serial=RFCXC08RD5E \[27m
+[7m  --new-display=1920x1080/420 \[27m[K
+[7m  --start-app=app.lawnchair \[27m[K
+[7m  --orientation=90 \[27m[K
+[7m  --fullscreen[27m[K[4A[12D[27ms[27mc[27mr[27mc[27mp[27my[27m [27m-[27m-[27ms[27me[27mr[27mi[27ma[27ml[27m=[27mR[27mF[27mC[27mX[27mC[27m0[27m8[27mR[27mD[27m5[27mE[27m [27m\[1B[27m [27m [27m-[27m-[27mn[27me[27mw[27m-[27md[27mi[27ms[27mp[27ml[27ma[27my[27m=[27m1[27m9[27m2[27m0[27mx[27m1[27m0[27m8[27m0[27m/[27m4[27m2[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27ms[27mt[27ma[27mr[27mt[27m-[27ma[27mp[27mp[27m=[27ma[27mp[27mp[27m.[27ml[27ma[27mw[27mn[27mc[27mh[27ma[27mi[27mr[27m [27m\[1B[27m [27m [27m-[27m-[27mo[27mr[27mi[27me[27mn[27mt[27ma[27mt[27mi[27mo[27mn[27m=[27m9[27m0[27m [27m\[1B[27m [27m [27m-[27m-[27mf[27mu[27ml[27ml[27ms[27mc[27mr[27me[27me[27mn[?1l>[?2004l
+]2;scrcpy --serial=RFCXC08RD5E --new-display=1920x1080/420  --orientation=90 ]1;scrcpyscrcpy 3.2 <https://github.com/Genymobile/scrcpy>
+INFO: ADB device found:
+INFO:     -->   (usb)  RFCXC08RD5E                     device  SM_A356E
+INFO:         (tcpip)  192.168.101.103:5555            device  SM_A356E
+[ 72%] /data/local/tmp/scrcpy-server.jar[K/opt/homebrew/Cellar/scrcpy/3.2/share/scrcpy/scrcpy-server: 1 file pushed, 0 skipped. 134.3 MB/s (90888 bytes in 0.001s)[K
+[server] INFO: Device: [samsung] samsung SM-A356E (Android 14)
+INFO: Initial display orientation set to 90
+INFO: Renderer: metal
+INFO: Texture: 1920x1080
+[server] WARN: No app found for package "app.lawnchair"
+[server] INFO: New display: 1920x1080/420 (id=22)
